@@ -101,6 +101,8 @@ builds:
     version: 9.2.0
   f0b063d7-de76-4eba-4542-c66e86ccc026:
     version: 9.5.1
+  f6b704f2-a239-4cbb-45a9-e85e7f330439:
+    version: v10.0.4-dev
   fa4778ed-7e7a-4ea1-819c-94ca28a9b867:
     version: "2"
 format-version: "2"
